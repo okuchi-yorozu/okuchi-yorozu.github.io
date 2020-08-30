@@ -8,8 +8,9 @@
 
 個人勢なので好き勝手にやれます。ぼくがこの世界のルールだ。
 
-- [Twitter @okuchi_yorozu](https://twitter.com/okuchi_yorozu)
-- [YouTubeチャンネル 億千よろず](https://www.youtube.com/channel/UCpEsTR5Nnd0-HgKngIQqbmA)
+- [Twitter: @okuchi_yorozu](https://twitter.com/okuchi_yorozu)
+- [YouTubeチャンネル: 億千よろず](https://www.youtube.com/channel/UCpEsTR5Nnd0-HgKngIQqbmA)
+- Discord: 億千よろず#0998
 
 ![億千よろずラフスケッチ](src/images/okuchi-yorozu-rough.jpg)
 
