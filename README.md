@@ -7,7 +7,7 @@
 個人勢なので好き勝手にやっています。ぼくがこの世のルールだ。
 
 - [Twitter @okuchi_yorozu](https://twitter.com/okuchi_yorozu)
-- [YouTube 億千よろず](https://www.youtube.com/channel/UCpEsTR5Nnd0-HgKngIQqbmA)
+- [YouTubeチャンネル 億千よろず](https://www.youtube.com/channel/UCpEsTR5Nnd0-HgKngIQqbmA)
 
 ![億千よろずラフスケッチ](src/images/okuchi-yorozu-rough.jpg)
 
