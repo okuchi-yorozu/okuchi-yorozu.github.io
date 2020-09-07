@@ -12,7 +12,13 @@
 - [YouTubeチャンネル: 億千よろず](https://www.youtube.com/channel/UCpEsTR5Nnd0-HgKngIQqbmA)
 - Discord: 億千よろず#0998
 
+<div style="text-align: right">by マッマ</div>
+
 ![億千よろずラフスケッチ](src/images/okuchi-yorozu-rough.jpg)
+
+<div style="text-align: right">by 朱音そらさん</div>
+
+![億千よろずロゴ](src/images/okuchi-yorozu-logo.png)
 
 ### やりたいこと
 - 個人勢のVtuberが生まれる手助け
@@ -54,13 +60,20 @@
 - [x] 　自己紹介を考える
 - [x] 　Twitterで自己紹介を固定ツイートにする
 - [x] 　フォロアーのYouTubeチャンネル見て回る
-- [ ] 　Twitterのヘッダーを作る
+- [x] 　Twitterのヘッダーを作る（朱音そらさん）
+- [x] 　YouTubeチャンネルのヘッダーを作る（朱音そらさん）
 - [ ] 　はじめての編集済み動画を作る
 - [ ] 　自己紹介動画を作る
-- [ ] 　YouTubeチャンネルのヘッダーを作る
 - [ ] 　マッマの紹介をする
 - [ ] 　配信のOPを作る
 - [ ] 　配信のEDを作る
 - [ ] 　はじめて配信のサムネイルを作る
 - [ ] 　YouTubeチャンネルを彩る
 - [ ] 　マシュマロアカウントを作る
+
+## Special Thanks
+- マッマ
+  - Twitter: あとで紹介する
+- 朱音そらさん
+  - [Twitter: akane_sola_0305](https://twitter.com/akane_sola_0305)
+  - [coconala: クリエイター](https://profile.coconala.com/users/2007490)
