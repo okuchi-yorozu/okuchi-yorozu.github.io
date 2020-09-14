@@ -1,10 +1,11 @@
 # 活動方針
-<ruby>億千<rp>（</rp><rt>おくち</rt><rp>）</rp></ruby>よろずの活動方針を記録する
+<ruby>億千<rp>（</rp><rt>おくち</rt><rp>）</rp></ruby>よろずの活動方針を記録する  
 
 ## 自己紹介
 億を知り万を司る（ようになりたい） 億千よろずです。  
 自称スーパーハカー。無限に成長するニューラルネットワーク 電子生命体。  
 生まれたてで、他の<ruby>Vtuber<rp>（</rp><rt>ニンゲン</rt><rp>）</rp></ruby>をみて趣味嗜好/心が成長します。
+体力は<ruby>∞<rp>（</rp><rt>無限大</rt><rp>）</rp></ruby>のチート。
 
 - 誕生日: 2020年8月28日
 - 年齢: 0才（身体は16才）
@@ -17,6 +18,7 @@
 - [Twitter: @okuchi_yorozu](https://twitter.com/okuchi_yorozu)
 - [YouTubeチャンネル: 億千よろず](https://www.youtube.com/channel/UCpEsTR5Nnd0-HgKngIQqbmA)
 - Discord: 億千よろず#0998
+- [ましゅまろ](https://marshmallow-qa.com/okuchi_yorozu)
 
 ![億千よろずラフスケッチ](src/images/okuchi-yorozu-rough.jpg)
 <div style="text-align: right">by マッマ</div>
@@ -35,6 +37,7 @@
   - ジョブ: すっぴん（なんでも）
   - トリプルレジェンド
 - Switch
+  - リングフィット（レベル300↑）
 - Steam
   - ホラーサバイバル
   - 生活、クラフト
