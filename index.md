@@ -60,10 +60,10 @@
 - [x] 　配信ではじめてのコメントをもらう
 - [x] 　普段から遊べる友だちほしい！
 - [x] 　Twitterのフォロアー数 200人
-- [x] 　YouTubeチャンネルの登録者数 50人
 - [x] 　YouTubeチャンネルの登録者数 100人
 - [x] 　はじめて絵を描いてもらう
 - [ ] 　Twitterのフォロアー数 500人
+- [ ] 　YouTubeチャンネルの登録者数 200人
 - [ ] 　配信の同時視聴者数20人
 - [ ] 　[VNUMA](https://hiyoko.sonoj.net/)でVtuberとして認識してもらう
 - [ ] 　正体を明かさずに非VtuberのときのつよつよVtuberフレからフォローされる
@@ -106,7 +106,7 @@
 
 ## Special Thanks
 - マッマ
-  - Twitter: あとで紹介する
+  - Twitter: Twitterのフォロアー数 500人で紹介する
 - 朱音そらさん
   - [Twitter: akane_sola_0305](https://twitter.com/akane_sola_0305)
   - [coconala: クリエイター](https://profile.coconala.com/users/2007490)
