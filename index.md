@@ -23,6 +23,7 @@
 - [YouTubeチャンネル: 億千よろず](https://www.youtube.com/channel/UCpEsTR5Nnd0-HgKngIQqbmA)
 - Discord: 億千よろず#0998
 - [ましゅまろ](https://marshmallow-qa.com/okuchi_yorozu)
+- [GitHub](https://github.com/okuchi-yorozu)
 
 ![億千よろずラフスケッチ](src/images/okuchi-yorozu-rough.jpg)
 <div style="text-align: right">by マッマ</div>
