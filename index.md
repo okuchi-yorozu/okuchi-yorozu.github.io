@@ -82,6 +82,7 @@
 - [x] 　マシュマロアカウントを作る
 - [x] 　[Vtuberデータベース](https://vtuber-post.com/)に登録する
 - [x] 　[バーチャルYouTuberランキング](https://social.userlocal.jp/?stage=youtube_vy_reg)に登録する
+- [ ] 　配信スケジュールのテンプレートを作る
 - [ ] 　新人Vtuberさんのためのノウハウ紹介ページを作る
 - [ ] 　自己紹介定例文を作る
 - [ ] 　はじめての編集済み動画を作る
