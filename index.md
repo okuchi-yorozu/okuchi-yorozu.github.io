@@ -26,7 +26,7 @@
 - [GitHub](https://github.com/okuchi-yorozu)
 
 ![億千よろずラフスケッチ](src/images/okuchi-yorozu-rough.jpg)
-<div style="text-align: right">by マッマ</div>
+<div style="text-align: right">by 0012マッマ</div>
 
 ![億千よろずロゴ](src/images/okuchi-yorozu-logo.png)
 <div style="text-align: right">by 朱音そらさん</div>
@@ -59,13 +59,13 @@
 ## 目標
 - [x] 　配信ではじめてのコメントをもらう
 - [x] 　普段から遊べる友だちほしい！
-- [x] 　Twitterのフォロアー数 200人
+- [x] 　Twitterのフォロアー数 500人
 - [x] 　YouTubeチャンネルの登録者数 100人
 - [x] 　はじめて絵を描いてもらう
-- [ ] 　Twitterのフォロアー数 500人
+- [x] 　[VNUMA](https://hiyoko.sonoj.net/)でVtuberとして認識してもらう
+- [ ] 　Twitterのフォロアー数 1000人
 - [ ] 　YouTubeチャンネルの登録者数 200人
 - [ ] 　配信の同時視聴者数20人
-- [ ] 　[VNUMA](https://hiyoko.sonoj.net/)でVtuberとして認識してもらう
 - [ ] 　正体を明かさずに非VtuberのときのつよつよVtuberフレからフォローされる
 
 ## やること
@@ -82,13 +82,14 @@
 - [x] 　マシュマロアカウントを作る
 - [x] 　[Vtuberデータベース](https://vtuber-post.com/)に登録する
 - [x] 　[バーチャルYouTuberランキング](https://social.userlocal.jp/?stage=youtube_vy_reg)に登録する
+- [x] 　他のVtuberさんの絵を描く
+- [x] 　マッマの紹介をする
 - [ ] 　配信スケジュールのテンプレートを作る
 - [ ] 　新人Vtuberさんのためのノウハウ紹介ページを作る
 - [ ] 　自己紹介定例文を作る
 - [ ] 　はじめての編集済み動画を作る
 - [ ] 　はじめての切り抜き動画を作る
 - [ ] 　自己紹介動画を作る
-- [ ] 　マッマの紹介をする
 - [ ] 　配信のOPを作る
 - [ ] 　配信のEDを作る
 - [ ] 　YouTubeチャンネルを彩る
@@ -97,7 +98,6 @@
 - [ ] 　他のVtuberさんに凸する
 - [ ] 　他のVtuberさんとはじめてのコラボ
 - [ ] 　自分の絵を描く
-- [ ] 　他のVtuberさんの絵を描く
 ### 高難易度
 - [ ] 　プログラミング配信にチャレンジする
 - [ ] 　歌枠配信にチャレンジする
@@ -106,8 +106,9 @@
 - [ ] 　Vtuber企画の主催にチャレンジする
 
 ## Special Thanks
-- マッマ
-  - Twitter: Twitterのフォロアー数 500人で紹介する
+- 0012（ぜろぜろいちに）マッマ
+  - [Twitter: 0012](https://twitter.com/zyhnpo)
+  - [coconala: フリーイラストレーター](https://profile.coconala.com/users/1125668)
 - 朱音そらさん
   - [Twitter: akane_sola_0305](https://twitter.com/akane_sola_0305)
   - [coconala: クリエイター](https://profile.coconala.com/users/2007490)
