@@ -1,4 +1,4 @@
-[活動方針](index.md) | [目標](achievement.md) | [実績](result.md)
+[活動方針](index.md) | [ステータス](status.md) | [目標](achievement.md) | [実績](result.md)
 
 # 実績
 
