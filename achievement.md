@@ -6,7 +6,7 @@
 - [x] 　普段から遊べる友だちほしい！
 - [x] 　Twitterのフォロアー数 500人
 - [x] 　はじめて絵を描いてもらう
-- [x] 　[VNUMA](https://hiyoko.sonoj.net/)でVtuberとして認識してもらう
+- [x] 　[VNUMA](https://vnuma.net/)でVtuberとして認識してもらう
 - [x] 　YouTubeチャンネルの登録者数 200人
 - [x] 　配信の同時視聴者数20人
 - [ ] 　Twitterのフォロアー数 1000人
