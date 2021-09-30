@@ -25,9 +25,10 @@
 個人勢なので好き勝手にやれます。ぼくがこの世界のルールだ。
 
 - [Twitter: @okuchi_yorozu](https://twitter.com/okuchi_yorozu)
-- [YouTubeチャンネル: 億千よろず](https://www.youtube.com/channel/UCpEsTR5Nnd0-HgKngIQqbmA)
+- [YouTubeチャンネル: 億千よろず](https://www.youtube.com/c/okuchiyorozu)
 - Discord: 億千よろず#0998
 - [ましゅまろ](https://marshmallow-qa.com/okuchi_yorozu)
+- [欲しいもの](https://www.amazon.jp/hz/wishlist/ls/1ZG5GLS0DCPCL?ref_=wl_share)
 - [GitHub](https://github.com/okuchi-yorozu)
 
 ![億千よろずラフスケッチ](src/images/okuchi-yorozu-rough.jpg)
@@ -71,6 +72,3 @@
 - 0012（ぜろぜろいちに）マッマ
   - [Twitter: 0012](https://twitter.com/zyhnpo)
   - [coconala: フリーイラストレーター](https://profile.coconala.com/users/1125668)
-- 朱音そらさん
-  - [Twitter: akane_sola_0305](https://twitter.com/akane_sola_0305)
-  - [coconala: クリエイター](https://profile.coconala.com/users/2007490)
